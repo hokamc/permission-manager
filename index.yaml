@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  permission-manager:
+  - apiVersion: v2
+    appVersion: 1.7.0-rc3
+    created: "2021-09-14T06:50:36.552381676Z"
+    description: A Helm chart for Kubernetes
+    digest: cdc7eb6c92e63acc43538ecd836cb89dd496ef1d6ea33e709b15b6f0a47768f0
+    name: permission-manager
+    type: application
+    urls:
+    - https://github.com/hokamc/permission-manager/releases/download/permission-manager-1.7.0-rc3/permission-manager-1.7.0-rc3.tgz
+    version: 1.7.0-rc3
+generated: "2021-09-14T06:50:36.552387176Z"
